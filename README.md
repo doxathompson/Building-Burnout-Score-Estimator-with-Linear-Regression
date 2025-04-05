@@ -30,6 +30,6 @@ export SMTP_PORT=587
 ```
 
 ## Project Documentation
-- [System Architecture](docs/ARCHITECTURE.md)
-- [User Workflow](docs/WORKFLOW.md)
-- [Data Models](docs/DATA_MODELS.md)
+- [System Architecture](./docs/ARCHITECTURE.md)
+- [User Workflow](./docs/WORKFLOW.md)
+- [Data Models](./docs/DATA_MODELS.md)
